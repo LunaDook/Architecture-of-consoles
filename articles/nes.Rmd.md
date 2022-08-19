@@ -54,7 +54,7 @@ The CPU market in the late 70s and early 80s was quite diverse. If a company wan
 
 - The **Intel 8080**: a popular CPU featured in the *Altair*, the first 'personal' computer. It has an 8-bit data bus and a 16-bit address bus.
 - The **Zilog Z80**: an 'unofficial' version of the 8080 enhanced with more instructions, registers and internal components. It was sold at a cheaper price and could still execute 8080 programs `r cite("cpu-re_1977", "86")`. Amstrad and Sinclair (among others) chose this CPU. 
-- The **Motorola 6800**: another 8-bit CPU designed by Motorola, it contains a completely different instruction set. Many do-it-yourself computer kits, synthesisers and all-in-one computers included the 6800.
+- The **Motorola 6800**: another 8-bit CPU designed by Motorola, which contains a completely different instruction set. Many do-it-yourself computer kits, synthesisers and all-in-one computers included the 6800.
 
 As if these options weren't enough, another company named **MOS** appeared on the market and offered a redesigned version of the 6800: the **6502**. While incompatible with the rest, the new chip was much *much* less expensive to produce `r cite("cpu-summary_costs")` `r cite("cpu-re_1981", "76")` and it was only a matter of time before the most famous computer makers (Commodore, Apple, Atari, Acorn and so forth) chose the 6502 to power their machines.
 
