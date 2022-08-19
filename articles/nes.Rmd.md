@@ -102,7 +102,7 @@ Nintendo wired up the cartridge lines in a way that only 49120 Bytes (~ 49.97 KB
 
 - A **Program ROM** where the game's program resides. This excludes the graphics data, as you'll later see in the 'Graphics' section. Naturally and unlike the other chips, this one is mandatory.
 - **RAM chips** to extend WRAM.
-- A **battery-packed RAM chip** to store saves.
+- A **battery-backed RAM chip** to store saves.
 
 The fact there are different combinations comes down to the fact the CPU doesn't care about what kind of component is reading from, it only sees memory locations. So is up to game studios to choose (or come up with) a feasible layout to fit their game in.
 
