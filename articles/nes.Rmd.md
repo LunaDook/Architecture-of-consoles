@@ -42,7 +42,7 @@ Nintendo ended up shipping lots of different variants of the same console across
 - The **Family Computer** (known as _Famicom_) was the first incarnation, but was only released in Japan. This toy-looking design features two unremovable controllers (from which the second controller bundles an internal microphone), a front socket for the light gun (called _Zapper_), RF video out (using NTSC-J signal) and extra pins in the cartridge slot to expand the audio capabilities.
 - The **Nintendo Entertainment System** (known as _NES_) was the redesigned edition for western audiences living in North America, Europe and Oceania; with a look that matches the typical set-top box. On the technical side, the controllers are now detachable (and microphone-lacking) and the video out has been improved with extra NTSC/PAL composite RCA connectors, although the audio expansion capabilities have been replaced with an anti-piracy subsystem. To top it off, the bottom of the case seals an 'expansion port' that was left unused, along with extra cartridge pins that communicate to that port `r cite("general-cartridge")`.
 
-Because the author grew up with the 'NES' name, I'll default to using that term to refer to the console in general, but I will switch to the 'Famicom' name when referring to unique capabilities only found in the Japanese variant.
+Because I grew up with the 'NES' name, I'll default to using that term to refer to the console in general, but will switch to the 'Famicom' name when referring to unique capabilities only found in the Japanese variant.
 
 ## CPU
 
