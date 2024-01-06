@@ -132,8 +132,6 @@ Colour RAM stores **two palettes of 16 colours each**. Each entry is 6-bit wide 
 
 ![Allocated Screen map with selected area marked.](sonic/tilemap_marked.png){title="Selected"}
 
-Allocated Screen map with selected area marked.
-
 :::
 
 A background layer is a large plane where static tiles are drawn. To place something here, there's another area on VRAM called **Screen map** that takes 1.75 KB. 
